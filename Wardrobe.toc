@@ -1,7 +1,7 @@
 ## Interface: 20501
 ## Author: brothermittens
 ## Version: 1.0.0
-## Title: |cffFF7D0AWardrobe|r
+## Title: Wardrobe-TBC
 ## Notes: Wardrobe assistant for those in need of gear management.
 ## SavedVariables: WardrobeDb
 
